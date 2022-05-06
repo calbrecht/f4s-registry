@@ -296,7 +296,7 @@
       },
       "to": {
         "owner": "calbrecht",
-        "repo": "f4s-overlays",
+        "repo": "f4s",
         "type": "github"
       }
     },
