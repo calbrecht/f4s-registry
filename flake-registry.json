@@ -298,7 +298,8 @@
         "owner": "nixos",
         "repo": "nixpkgs",
         "type": "github",
-        "rev": "5656d7f92aa8264eb06ba68ad94c87ac5b5312e8"
+        "rev": "5656d7f92aa8264eb06ba68ad94c87ac5b5312e8",
+        "narHash": "sha256-KkJ28fShdd78+zal5HlHsXUICOCtO7Bdvylc5zlp5Mk="
       }
     },
     {
@@ -310,7 +311,8 @@
         "owner": "calbrecht",
         "repo": "f4s-emacs",
         "type": "github",
-        "rev": "3ee11c2636c83a94708e15046ebff5b2ecc26e41"
+        "rev": "3ee11c2636c83a94708e15046ebff5b2ecc26e41",
+        "narHash": "sha256-AFTnePFrXcELNSoFbuA/33XcazJFgc+XHuxs3saQTss="
       }
     },
     {
@@ -322,7 +324,8 @@
         "owner": "nix-community",
         "repo": "emacs-overlay",
         "type": "github",
-        "rev": "ebb4f13297cc67f59ed72faa1402fcd449fa8dce"
+        "rev": "ebb4f13297cc67f59ed72faa1402fcd449fa8dce",
+        "narHash": "sha256-NAsOvhxbgC/h1WoLI5W85I/pvzbCo0Cmng987Z2BsrU="
       }
     },
     {
@@ -334,7 +337,8 @@
         "owner": "calbrecht",
         "repo": "f4s-firefox-nightly",
         "type": "github",
-        "rev": "35a5d61c8d67a122c20b2c00216c5beaec1cc87d"
+        "rev": "35a5d61c8d67a122c20b2c00216c5beaec1cc87d",
+        "narHash": "sha256-j6Nln+LkvH+WkHsRxljROzt47PFAlQQQlKtzsitGKEE="
       }
     },
     {
@@ -346,7 +350,8 @@
         "owner": "calbrecht",
         "repo": "f4s-fixups",
         "type": "github",
-        "rev": "cbb216a13c8543136c6fffd7993726b792117d3e"
+        "rev": "cbb216a13c8543136c6fffd7993726b792117d3e",
+        "narHash": "sha256-9dThxesPMWERNEkeOATYqlUDV3tlIrhNsI9llIGMpgs="
       }
     },
     {
@@ -358,7 +363,8 @@
         "owner": "edolstra",
         "repo": "flake-compat",
         "type": "github",
-        "rev": "b4a34015c698c7793d592d66adbab377907a2be8"
+        "rev": "b4a34015c698c7793d592d66adbab377907a2be8",
+        "narHash": "sha256-Z+s0J8/r907g149rllvwhb4pKi8Wam5ij0st8PwAh+E="
       }
     },
     {
@@ -370,7 +376,8 @@
         "owner": "mozilla",
         "repo": "gecko-dev",
         "type": "github",
-        "rev": "f837285619240f496ced176161851c97be8f2eb5"
+        "rev": "f837285619240f496ced176161851c97be8f2eb5",
+        "narHash": "sha256-/g+/YVcueme5uHZoQ5BB9owqR18pyrCUmE7EV3WUi0E="
       }
     },
     {
@@ -382,7 +389,8 @@
         "owner": "calbrecht",
         "repo": "f4s-global-cursor-theme",
         "type": "github",
-        "rev": "c04c1d65070a3d633359ab48c087cf0e04eecfbf"
+        "rev": "c04c1d65070a3d633359ab48c087cf0e04eecfbf",
+        "narHash": "sha256-weS3QNB9WWTUXmfgLBbuUyQrsiH2IsMXYIFvAx/4NkY="
       }
     },
     {
@@ -394,7 +402,8 @@
         "owner": "nix-community",
         "repo": "naersk",
         "type": "github",
-        "rev": "2fc8ce9d3c025d59fee349c1f80be9785049d653"
+        "rev": "2fc8ce9d3c025d59fee349c1f80be9785049d653",
+        "narHash": "sha256-pGsM8haJadVP80GFq4xhnSpNitYNQpaXk4cnA796Cso="
       }
     },
     {
@@ -406,7 +415,8 @@
         "owner": "NixOS",
         "repo": "nixpkgs",
         "type": "github",
-        "rev": "f1801888282556727785eef66fb3f965a8e713ff"
+        "rev": "f1801888282556727785eef66fb3f965a8e713ff",
+        "narHash": "sha256-gqv6j1ufhkUJxXhuB9gibcW1S1v02Nj/wDQq9rGX7Qw="
       }
     },
     {
@@ -418,7 +428,8 @@
         "owner": "mozilla",
         "repo": "nixpkgs-mozilla",
         "type": "github",
-        "rev": "e1f7540fc0a8b989fb8cf701dc4fd7fc76bcf168"
+        "rev": "e1f7540fc0a8b989fb8cf701dc4fd7fc76bcf168",
+        "narHash": "sha256-sroCK+QJTmoXtcRkwZyKOP9iAYOPID2Bwdxn4GkG16w="
       }
     },
     {
@@ -430,7 +441,8 @@
         "owner": "calbrecht",
         "repo": "f4s-nodejs",
         "type": "github",
-        "rev": "a971345c9836bd49e12b32116f0a4fa5ccc69d0c"
+        "rev": "a971345c9836bd49e12b32116f0a4fa5ccc69d0c",
+        "narHash": "sha256-4Zms9Oz5itJY7kZeondsRfLCZTYnFsrIITFSsxH0nvo="
       }
     },
     {
@@ -442,7 +454,8 @@
         "owner": "calbrecht",
         "repo": "f4s-nspr",
         "type": "github",
-        "rev": "0a7cfc53fe9c3bfe4490c48ef8d14f6ff4a01d05"
+        "rev": "0a7cfc53fe9c3bfe4490c48ef8d14f6ff4a01d05",
+        "narHash": "sha256-b/a97mevsYbsxf0eJLex3mRJ4xIm2zERPDzsyVt+ECM="
       }
     },
     {
@@ -464,7 +477,8 @@
         "owner": "calbrecht",
         "repo": "f4s-nss",
         "type": "github",
-        "rev": "a90415a9b366e15733858077727b626c992e6390"
+        "rev": "a90415a9b366e15733858077727b626c992e6390",
+        "narHash": "sha256-Bm5SKcX9CEPBY5UGh7XywQsqG0YZw++lOZizF8AvasI="
       }
     },
     {
@@ -476,7 +490,8 @@
         "owner": "nss-dev",
         "repo": "nss",
         "type": "github",
-        "rev": "cea7654c90aaed1d1e29f735ce765974c08898df"
+        "rev": "cea7654c90aaed1d1e29f735ce765974c08898df",
+        "narHash": "sha256-WnUslakuCWD98ftuLkICHnjQtxbl+zZjXhOXLbuxQaA="
       }
     },
     {
@@ -488,7 +503,9 @@
         "owner": "calbrecht",
         "repo": "f4s-nodejs",
         "type": "github",
-        "rev": "f26b47c2b45781606d59efd7beee75cf4da6afda"
+        "rev": "f26b47c2b45781606d59efd7beee75cf4da6afda",
+        "narHash": "sha256-lHvvjAdNY8j5NxysaHO0eSliOMlWCWisU1IMwF9FXnQ=",
+        "dir": "pkgs"
       }
     },
     {
@@ -500,7 +517,8 @@
         "owner": "nix-community",
         "repo": "rnix-lsp",
         "type": "github",
-        "rev": "41eb2f3366e3f351bf2563c2a7c46fd17e78dfe0"
+        "rev": "41eb2f3366e3f351bf2563c2a7c46fd17e78dfe0",
+        "narHash": "sha256-BRIAc3+zavSlJPYSbov2n1W9/a4Iuh2swFPYRWjCm1g="
       }
     },
     {
@@ -512,7 +530,8 @@
         "owner": "calbrecht",
         "repo": "f4s-rust",
         "type": "github",
-        "rev": "52494b64aefc7b1822f663d2f75ea912776ccc32"
+        "rev": "52494b64aefc7b1822f663d2f75ea912776ccc32",
+        "narHash": "sha256-Funq0zZ9Nvb10tiA4hPadgVkkpnkfmtwTLdUeDHLrGU="
       }
     },
     {
@@ -524,7 +543,8 @@
         "owner": "numtide",
         "repo": "flake-utils",
         "type": "github",
-        "rev": "74f7e4319258e287b0f9cb95426c9853b282730b"
+        "rev": "74f7e4319258e287b0f9cb95426c9853b282730b",
+        "narHash": "sha256-sQzZzAbvKEqN9s0bzWuYmRaA03v40gaJ4+iL1LXjaeI="
       }
     },
     {
@@ -536,7 +556,8 @@
         "owner": "nix-community",
         "repo": "nixpkgs-wayland",
         "type": "github",
-        "rev": "3fb826740238079708844f20d2b29c4a596cffe9"
+        "rev": "3fb826740238079708844f20d2b29c4a596cffe9",
+        "narHash": "sha256-aRsRK9XaTxRBvGGS20wASrJGU5uUgn+hSo8HPC1yqbQ="
       }
     },
     {
