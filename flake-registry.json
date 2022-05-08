@@ -356,34 +356,6 @@
     },
     {
       "from": {
-        "id": "f4s-flake-compat",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "edolstra",
-        "repo": "flake-compat",
-        "type": "github",
-        "rev": "b4a34015c698c7793d592d66adbab377907a2be8",
-        "narHash": "sha256-Z+s0J8/r907g149rllvwhb4pKi8Wam5ij0st8PwAh+E=",
-        "flake": false
-      }
-    },
-    {
-      "from": {
-        "id": "f4s-gecko-dev",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "mozilla",
-        "repo": "gecko-dev",
-        "type": "github",
-        "rev": "f837285619240f496ced176161851c97be8f2eb5",
-        "narHash": "sha256-/g+/YVcueme5uHZoQ5BB9owqR18pyrCUmE7EV3WUi0E=",
-        "flake": false
-      }
-    },
-    {
-      "from": {
         "id": "f4s-global-cursor-theme",
         "type": "indirect"
       },
@@ -423,20 +395,6 @@
     },
     {
       "from": {
-        "id": "f4s-nixpkgs-mozilla",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "mozilla",
-        "repo": "nixpkgs-mozilla",
-        "type": "github",
-        "rev": "e1f7540fc0a8b989fb8cf701dc4fd7fc76bcf168",
-        "narHash": "sha256-sroCK+QJTmoXtcRkwZyKOP9iAYOPID2Bwdxn4GkG16w=",
-        "flake": false
-      }
-    },
-    {
-      "from": {
         "id": "f4s-nodejs",
         "type": "indirect"
       },
@@ -463,17 +421,6 @@
     },
     {
       "from": {
-        "id": "f4s-nspr-dev-src",
-        "type": "indirect"
-      },
-      "to": {
-        "url": "https://hg.mozilla.org/projects/nspr/archive/NSPR_4_32_RTM.zip",
-        "type": "tarball",
-        "flake": false
-      }
-    },
-    {
-      "from": {
         "id": "f4s-nss-dev",
         "type": "indirect"
       },
@@ -483,35 +430,6 @@
         "type": "github",
         "rev": "a90415a9b366e15733858077727b626c992e6390",
         "narHash": "sha256-Bm5SKcX9CEPBY5UGh7XywQsqG0YZw++lOZizF8AvasI="
-      }
-    },
-    {
-      "from": {
-        "id": "f4s-nss-dev-src",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nss-dev",
-        "repo": "nss",
-        "type": "github",
-        "rev": "cea7654c90aaed1d1e29f735ce765974c08898df",
-        "narHash": "sha256-WnUslakuCWD98ftuLkICHnjQtxbl+zZjXhOXLbuxQaA=",
-        "flake": false
-      }
-    },
-    {
-      "from": {
-        "id": "f4s-pkgs-src",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "calbrecht",
-        "repo": "f4s-nodejs",
-        "type": "github",
-        "rev": "f26b47c2b45781606d59efd7beee75cf4da6afda",
-        "narHash": "sha256-lHvvjAdNY8j5NxysaHO0eSliOMlWCWisU1IMwF9FXnQ=",
-        "dir": "pkgs",
-        "flake": false
       }
     },
     {
