@@ -364,7 +364,8 @@
         "repo": "flake-compat",
         "type": "github",
         "rev": "b4a34015c698c7793d592d66adbab377907a2be8",
-        "narHash": "sha256-Z+s0J8/r907g149rllvwhb4pKi8Wam5ij0st8PwAh+E="
+        "narHash": "sha256-Z+s0J8/r907g149rllvwhb4pKi8Wam5ij0st8PwAh+E=",
+        "flake": false
       }
     },
     {
@@ -377,7 +378,8 @@
         "repo": "gecko-dev",
         "type": "github",
         "rev": "f837285619240f496ced176161851c97be8f2eb5",
-        "narHash": "sha256-/g+/YVcueme5uHZoQ5BB9owqR18pyrCUmE7EV3WUi0E="
+        "narHash": "sha256-/g+/YVcueme5uHZoQ5BB9owqR18pyrCUmE7EV3WUi0E=",
+        "flake": false
       }
     },
     {
@@ -429,7 +431,8 @@
         "repo": "nixpkgs-mozilla",
         "type": "github",
         "rev": "e1f7540fc0a8b989fb8cf701dc4fd7fc76bcf168",
-        "narHash": "sha256-sroCK+QJTmoXtcRkwZyKOP9iAYOPID2Bwdxn4GkG16w="
+        "narHash": "sha256-sroCK+QJTmoXtcRkwZyKOP9iAYOPID2Bwdxn4GkG16w=",
+        "flake": false
       }
     },
     {
@@ -465,7 +468,8 @@
       },
       "to": {
         "url": "https://hg.mozilla.org/projects/nspr/archive/NSPR_4_32_RTM.zip",
-        "type": "tarball"
+        "type": "tarball",
+        "flake": false
       }
     },
     {
@@ -491,7 +495,8 @@
         "repo": "nss",
         "type": "github",
         "rev": "cea7654c90aaed1d1e29f735ce765974c08898df",
-        "narHash": "sha256-WnUslakuCWD98ftuLkICHnjQtxbl+zZjXhOXLbuxQaA="
+        "narHash": "sha256-WnUslakuCWD98ftuLkICHnjQtxbl+zZjXhOXLbuxQaA=",
+        "flake": false
       }
     },
     {
@@ -505,7 +510,8 @@
         "type": "github",
         "rev": "f26b47c2b45781606d59efd7beee75cf4da6afda",
         "narHash": "sha256-lHvvjAdNY8j5NxysaHO0eSliOMlWCWisU1IMwF9FXnQ=",
-        "dir": "pkgs"
+        "dir": "pkgs",
+        "flake": false
       }
     },
     {
