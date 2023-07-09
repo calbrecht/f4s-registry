@@ -13,6 +13,17 @@
     },
     {
       "from": {
+        "id": "arion",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "hercules-ci",
+        "repo": "arion",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
         "id": "blender-bin",
         "type": "indirect"
       },
@@ -20,6 +31,17 @@
         "dir": "blender",
         "owner": "edolstra",
         "repo": "nix-warez",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "composable",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "ComposableFi",
+        "repo": "composable",
         "type": "github"
       }
     },
@@ -69,6 +91,17 @@
     },
     {
       "from": {
+        "id": "flake-parts",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "hercules-ci",
+        "repo": "flake-parts",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
         "id": "flake-utils",
         "type": "indirect"
       },
@@ -86,6 +119,28 @@
       "to": {
         "owner": "nix-community",
         "repo": "flake-gemini",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "hercules-ci-effects",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "hercules-ci",
+        "repo": "hercules-ci-effects",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "hercules-ci-agent",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "hercules-ci",
+        "repo": "hercules-ci-agent",
         "type": "github"
       }
     },
@@ -184,7 +239,6 @@
       },
       "to": {
         "owner": "NixOS",
-        "ref": "flake",
         "repo": "nixos-homepage",
         "type": "github"
       }
@@ -286,6 +340,50 @@
       "to": {
         "owner": "NixOS",
         "repo": "bundlers",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "pridefetch",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "SpyHoodle",
+        "repo": "pridefetch",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "systems",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "nix-systems",
+        "repo": "default",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "helix",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "helix-editor",
+        "repo": "helix",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "sops-nix",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "Mic92",
+        "repo": "sops-nix",
         "type": "github"
       }
     },
